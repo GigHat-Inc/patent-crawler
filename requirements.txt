@@ -1,7 +1,7 @@
 beautifulsoup4==4.14.3
 certifi==2021.5.30
 chardet==4.0.0
-idna==2.10
+idna==3.11
 numpy==1.20.3
 pandas==1.2.4
 progressbar2==3.53.1
